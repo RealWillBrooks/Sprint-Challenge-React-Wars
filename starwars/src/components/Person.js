@@ -5,6 +5,7 @@ const HeaderContainer = styled.div`
   width: 400px;
   margin: 10px auto;
   padding: 2px;
+  font-family: montserrat;
 `;
 
 const Person = props => {
